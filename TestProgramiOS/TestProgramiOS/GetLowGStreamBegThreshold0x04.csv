@@ -1,0 +1,2 @@
+StartByte,MessageID,MessageLength(lsb),MessageLength(msb),Threshold(LSB),Threshold(MSB),
+170,132,6,0,0,0,

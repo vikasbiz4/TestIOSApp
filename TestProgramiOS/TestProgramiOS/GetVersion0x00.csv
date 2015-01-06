@@ -1,0 +1,2 @@
+StartByte,MessageID,MessageLength(lsb),MessageLength(msb),MajorVersion,MinorVersion,
+170,128,6,0,0,13,

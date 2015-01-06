@@ -1,0 +1,2 @@
+StartByte,MessageID,MessageLength(lsb),MessageLength(msb),Temperature(LSB),Temperature(MSB),
+170,141,6,0,128,27,
